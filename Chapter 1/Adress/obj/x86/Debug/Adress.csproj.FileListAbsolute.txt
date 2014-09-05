@@ -1,0 +1,4 @@
+C:\Users\Eahscs\Documents\GitHub\Chapter-1\Chapter 1\Adress\bin\Debug\Adress.exe
+C:\Users\Eahscs\Documents\GitHub\Chapter-1\Chapter 1\Adress\bin\Debug\Adress.pdb
+C:\Users\Eahscs\Documents\GitHub\Chapter-1\Chapter 1\Adress\obj\x86\Debug\Adress.exe
+C:\Users\Eahscs\Documents\GitHub\Chapter-1\Chapter 1\Adress\obj\x86\Debug\Adress.pdb

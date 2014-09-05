@@ -1,0 +1,6 @@
+C:\Users\Eahscs\AppData\Local\Temporary Projects\Initials\bin\Debug\Initials.exe
+C:\Users\Eahscs\AppData\Local\Temporary Projects\Initials\bin\Debug\Initials.pdb
+C:\Users\Eahscs\AppData\Local\Temporary Projects\Initials\obj\x86\Debug\Initials.exe
+C:\Users\Eahscs\AppData\Local\Temporary Projects\Initials\obj\x86\Debug\Initials.pdb
+C:\Users\Eahscs\Documents\GitHub\Chapter-1\Initials\Initials\obj\x86\Debug\Initials.exe
+C:\Users\Eahscs\Documents\GitHub\Chapter-1\Initials\Initials\obj\x86\Debug\Initials.pdb
