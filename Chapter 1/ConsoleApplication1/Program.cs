@@ -9,7 +9,23 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            System.Console.Out.WriteLine("I smell Dat Pussy From A Mile Away");
+            System.Console.Out.WriteLine("What's Bron and sticky?");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            System.Console.Out.WriteLine("A STICK!");
         }
     }
 }

@@ -12,7 +12,7 @@ namespace Name
             System.Console.Out.WriteLine("Anthony Werkheiser");
             System.Console.Out.WriteLine("520 Ann Street");
             System.Console.Out.WriteLine("Easton");
-            System.Console.Out.WriteLine("PUSSY");
+            System.Console.Out.WriteLine("My sister is MEGA weird.");
         }
     }
 }

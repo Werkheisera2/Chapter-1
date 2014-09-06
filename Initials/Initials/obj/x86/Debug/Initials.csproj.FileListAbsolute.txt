@@ -4,3 +4,8 @@ C:\Users\Eahscs\AppData\Local\Temporary Projects\Initials\obj\x86\Debug\Initials
 C:\Users\Eahscs\AppData\Local\Temporary Projects\Initials\obj\x86\Debug\Initials.pdb
 C:\Users\Eahscs\Documents\GitHub\Chapter-1\Initials\Initials\obj\x86\Debug\Initials.exe
 C:\Users\Eahscs\Documents\GitHub\Chapter-1\Initials\Initials\obj\x86\Debug\Initials.pdb
+C:\Users\Kimberly\Documents\GitHub\Chapter-1\Initials\Initials\obj\x86\Debug\Initials.exe
+C:\Users\Kimberly\Documents\GitHub\Chapter-1\Initials\Initials\obj\x86\Debug\Initials.pdb
+C:\Users\Kimberly\Documents\GitHub\Chapter-1\Initials\Initials\bin\Debug\Initials.exe
+C:\Users\Kimberly\Documents\GitHub\Chapter-1\Initials\Initials\bin\Debug\Initials.pdb
+C:\Users\Kimberly\Documents\GitHub\Chapter-1\Initials\Initials\obj\x86\Debug\Initials.csprojResolveAssemblyReference.cache

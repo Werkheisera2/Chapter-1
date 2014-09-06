@@ -2,3 +2,7 @@ C:\Users\Eahscs\Documents\GitHub\Chapter-1\Chapter 1\ConsoleApplication1\bin\Deb
 C:\Users\Eahscs\Documents\GitHub\Chapter-1\Chapter 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\Eahscs\Documents\GitHub\Chapter-1\Chapter 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 C:\Users\Eahscs\Documents\GitHub\Chapter-1\Chapter 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Kimberly\Documents\GitHub\Chapter-1\Chapter 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Kimberly\Documents\GitHub\Chapter-1\Chapter 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Kimberly\Documents\GitHub\Chapter-1\Chapter 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Kimberly\Documents\GitHub\Chapter-1\Chapter 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

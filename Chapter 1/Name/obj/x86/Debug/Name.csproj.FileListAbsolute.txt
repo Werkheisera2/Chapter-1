@@ -2,3 +2,8 @@ C:\Users\Eahscs\Documents\GitHub\Chapter-1\Chapter 1\Name\bin\Debug\Name.exe
 C:\Users\Eahscs\Documents\GitHub\Chapter-1\Chapter 1\Name\bin\Debug\Name.pdb
 C:\Users\Eahscs\Documents\GitHub\Chapter-1\Chapter 1\Name\obj\x86\Debug\Name.exe
 C:\Users\Eahscs\Documents\GitHub\Chapter-1\Chapter 1\Name\obj\x86\Debug\Name.pdb
+C:\Users\Kimberly\Documents\GitHub\Chapter-1\Chapter 1\Name\obj\x86\Debug\Name.exe
+C:\Users\Kimberly\Documents\GitHub\Chapter-1\Chapter 1\Name\obj\x86\Debug\Name.pdb
+C:\Users\Kimberly\Documents\GitHub\Chapter-1\Chapter 1\Name\bin\Debug\Name.exe
+C:\Users\Kimberly\Documents\GitHub\Chapter-1\Chapter 1\Name\bin\Debug\Name.pdb
+C:\Users\Kimberly\Documents\GitHub\Chapter-1\Chapter 1\Name\obj\x86\Debug\Name.csprojResolveAssemblyReference.cache

@@ -9,14 +9,14 @@ namespace Initials
     {
         static void Main(string[] args)
         {
-            System.Console.Out.WriteLine("        A                 W                  W");
-            System.Console.Out.WriteLine("      A   A                W               W");
-            System.Console.Out.WriteLine("    A       A               W             W");
-            System.Console.Out.WriteLine("   AAAAAAAAAAA               W           W");
-            System.Console.Out.WriteLine("  A           A               W        W");
-            System.Console.Out.WriteLine(" A             A               W     W");
-            System.Console.Out.WriteLine("A               A               W   W");
-            System.Console.Out.WriteLine("                                  W  ");
+            System.Console.Out.WriteLine("        A                 W                  WWW               W");
+            System.Console.Out.WriteLine("      A   A                W               W     W            W");
+            System.Console.Out.WriteLine("    A       A               W             W       W          W");
+            System.Console.Out.WriteLine("   AAAAAAAAAAA               W           W         W        W");
+            System.Console.Out.WriteLine("  A           A               W        W            W      W");
+            System.Console.Out.WriteLine(" A             A               W     W               W    W");
+            System.Console.Out.WriteLine("A               A               W   W                 W  W");
+            System.Console.Out.WriteLine("                                  W                     W");
         }
     }
 }
